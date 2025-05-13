@@ -79,12 +79,14 @@ This is a full-featured **Event Ticket Booking Website** built with **React**, *
 ## 🧰 Getting Started
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/your-username/event-booking-app.git
 cd event-booking-app
 ```
 
 2. **Install dependencies**
+
 ```bash
 npm install
 ```
@@ -92,6 +94,7 @@ npm install
 3. **Add your Firebase config to `.env`**
 
 4. **Start the development server**
+
 ```bash
 npm run dev
 ```
@@ -101,7 +104,7 @@ npm run dev
 ## 🌐 Live Demo
 
 > Add your live site link here once deployed  
-> Example: [https://event-booking-app.web.app](https://event-booking-app.web.app)
+> Example: [https://willowy-duckanoo-770c01.netlify.app/](https://willowy-duckanoo-770c01.netlify.app/)
 
 ---
 
